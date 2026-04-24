@@ -14,7 +14,7 @@ The pfQuest-epoch data is translated into Questie's native schema at load time a
 
 ## Credits
 
-All heavy lifting belongs to the upstream projects. This repository only glues them together.
+This 3.3.5a / Project Epoch mix was put together by **Neticsoul**, but all the heavy lifting belongs to the upstream projects. This repository only glues them together.
 
 | Project | Author(s) | License |
 | --- | --- | --- |
