@@ -63,7 +63,7 @@ Questie's schema version was bumped so existing installs recompile once on first
 ## Known limitations
 
 - Only entries **absent** from the base WotLK DB are added. Epoch overrides of existing vanilla/TBC/WotLK quests are currently ignored.
-- Quest descriptions rely on `questDescription` fallbacks and may be auto-generated when pfQuest-epoch has no text.
+- Quest descriptions are taken from pfQuest-epoch when available; when absent, Questie falls back to its auto-generated objective text.
 - `requiredSkill`, reputations and many flags are only partially mapped &mdash; some quests may appear as available when they actually aren't.
 - No localization beyond **enUS** for Epoch content (base Questie translations are unaffected).
 
@@ -162,3 +162,9 @@ Trust us it's (Good)!
 
 ### Configuration
 - Extensive configuration options. (right-click on minimap button to open or type `/questie`)
+
+---
+
+### Disclaimer
+
+Fan-made, non-commercial project. Not affiliated with Blizzard Entertainment or with the Project Epoch server or its staff. World of Warcraft and all related trademarks are property of Blizzard Entertainment. All game data shipped with this addon comes from the upstream open-source projects credited above.
