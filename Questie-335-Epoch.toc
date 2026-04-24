@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: Questie-335|cFF00FF00 v9.6.0-335|r
+## Title: Questie-335-Epoch|cFF00FF00 v9.6.0-335|r
 ## Author: Aero/Logon/Muehe/TheCrux(BreakBB)/Drejjmit/Dyaxler/Schaka/Zoey/Everyone else (3.3.5 mix by Neticsoul)
 ## Notes: A standalone Classic QuestHelper
 ## Notes-esMX: Ayundante de misión

@@ -30,10 +30,11 @@ If you enjoy this addon, please go star the upstream repos &mdash; they did the 
 ## Installation
 
 1. Download this repository as a zip.
-2. Extract it into `Interface/AddOns/`, rename the folder to **`Questie-335`**.
-3. Launch the 3.3.5a client. On first login Questie will print *"Questie DB has updated!"* and recompile. After a few seconds you should see a line like
+2. Extract it into `Interface/AddOns/`. The folder must be named **`Questie-335-Epoch`** (the zip from GitHub will unpack as `questie-335-epoch-main` or similar &mdash; rename it).
+3. Remove any previous `Questie` or `Questie-335` folder from `Interface/AddOns/` to avoid conflicts.
+4. Launch the 3.3.5a client. On first login Questie will print *"Questie DB has updated!"* and recompile. After a few seconds you should see a line like
    `[Questie-Epoch] added N quests, N NPCs, N objects, N items.`
-4. Enjoy.
+5. Enjoy.
 
 ### If you had Questie installed before
 
