@@ -20,7 +20,7 @@ This 3.3.5a / Project Epoch mix was put together by **Neticsoul**, but all the h
 | --- | --- | --- |
 | [Questie](https://github.com/Questie/Questie) | The Questie Team | GPL-3.0 |
 | [Questie 3.3.5a port](https://github.com/Aldori15/Questie) | Aldori15 and contributors | GPL-3.0 |
-| [pfQuest-epoch database](https://github.com/Bennylavaa/pfQuest-epoch) | Bennylavaa and contributors | MIT |
+| [pfQuest-epoch database](https://github.com/Bennylavaa/pfQuest-epoch) | Bennylavaa and contributors | Custom |
 | [pfQuest](https://github.com/shagu/pfQuest) | shagu and contributors | MIT |
 
 If you enjoy this addon, please go star the upstream repos &mdash; they did the actual work.
