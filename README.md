@@ -70,6 +70,12 @@ Questie's schema version was bumped so existing installs recompile once on first
 - `requiredSkill`, reputations and many flags are only partially mapped &mdash; some quests may appear as available when they actually aren't.
 - No localization beyond **enUS** for Epoch content (base Questie translations are unaffected).
 
+## pfQuest-epoch database policy
+
+To keep a single source of truth, any improvement or fix to pfQuest-epoch database content must be proposed first in the original pfQuest-epoch repository.
+
+This project may consume upstream database updates, but should not maintain separate local database divergences.
+
 ---
 
 ## Reporting bugs
