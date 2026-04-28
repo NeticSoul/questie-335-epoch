@@ -4,7 +4,9 @@ This repository is a derivative work that bundles code from several upstream pro
 
 ## This fork
 
-- **Questie-335-Epoch mix (packaging, `epoch/` data integration layer, `Database/Epoch/*`, README, build adjustments)** &mdash; Copyright (c) 2026 Neticsoul. Licensed under the GNU General Public License v3.0 (see [LICENSE](LICENSE)) to remain compatible with the upstream Questie license.
+- **Questie-335-Epoch original work (packaging, Questie-side integration layer under `Database/Epoch/*`, README, build adjustments)** &mdash; Copyright (c) 2026 Neticsoul. Licensed under the GNU General Public License v3.0 (see [LICENSE](LICENSE)).
+
+The GPL-3.0 license in [LICENSE](LICENSE) applies only to this fork's original code and documentation. Third-party code, data, libraries and assets shipped in this repository remain under their original licenses and restrictions.
 
 ## Upstream components
 
@@ -12,7 +14,7 @@ This repository is a derivative work that bundles code from several upstream pro
 | --- | --- | --- |
 | [Questie](https://github.com/Questie/Questie) (core addon) | The Questie Team and contributors | GPL-3.0 |
 | [Questie 3.3.5a port](https://github.com/Aldori15/Questie) | Aldori15 and contributors | GPL-3.0 |
-| [pfQuest-epoch database](https://github.com/Bennylavaa/pfQuest-epoch) (files under `epoch/`) | Bennylavaa and contributors, derived from pfQuest | MIT |
+| [pfQuest-epoch database](https://github.com/Bennylavaa/pfQuest-epoch) (files under `epoch/`) | Bennylavaa and contributors, derived from pfQuest | Custom license, see [THIRD_PARTY_LICENSES/pfQuest-epoch-LICENSE.md](THIRD_PARTY_LICENSES/pfQuest-epoch-LICENSE.md) |
 | [pfQuest](https://github.com/shagu/pfQuest) | shagu and contributors | MIT |
 | Libraries under `Libs/` (Ace3, CallbackHandler, HereBeDragons, LibStub, LibDBIcon, LibDataBroker, LibSharedMedia, LibUIDropDownMenu, Krowi_WorldMapButtons, AceGUI-SharedMediaWidgets) | Respective authors | See each library's own LICENSE file |
 | Icons under `Icons/` | See [Icons/LICENSE.md](Icons/LICENSE.md) | As specified there |
